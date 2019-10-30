@@ -1,0 +1,12 @@
+Added 'partial' to names of the following genes because they were flagged by prokka as OVERLAPPING_CDS and appear to be portions of larger gene:
+      	profftella_dc_fl_00281
+	profftella_dc_fl_00282
+
+Changed names of profftella_dc_fl_00396 and profftella_dc_fl_00397 from 'tRNA dimethylallyltransferase' to 'split tRNA delta(2)-isopentenylpyrophosphate transferase' after they were flagged by prokka as OVERLAPPING_CDS and based on BLAST results.
+
+Added 'partial' to names of following genes because they were flagged by prokka as SHORT_PROT_SEQUENCES and are significantly shorter (>20% shorter) than corresponding genes in reference:
+      profftella_dc_fl_00410
+      profftella_dc_fl_00424
+      profftella_dc_fl_00425
+
+Changed name of profftella_dc_fl_00410 to 'partial A/G-specific adenine glycosylase' from 'hypothetical protein' based on BLAST results after being flagged by prokka as SHORT_PROT_SEQUENCES.

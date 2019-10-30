@@ -1,0 +1,20 @@
+Added 'partial' to names of following genes because they were flagged as OVERLAPPING_CDS by prokka and appear to be pieces of larger CDS:
+      carsonella_dc_fl_00071
+      carsonella_dc_fl_00072
+      carsonella_dc_fl_00163
+      carsonella_dc_fl_00164
+      carsonella_dc_fl_00167
+      carsonella_dc_fl_00168
+      carsonella_dc_fl_00179
+      carsonella_dc_fl_00180
+
+Added 'partial' to names of following genes because they were flagged as SHORT_PROT_SEQUENCES by prokka and are significantly shorter (>20% shorter) than corresponding genes in the refernce/on NCBI:
+      carsonella_dc_fl_00029
+      carsonella_dc_fl_00049
+      carsonella_dc_fl_00104
+      carsonella_dc_fl_00164
+      carsonella_dc_fl_00201
+
+Changed name of carsonella_dc_fl_00104 from 'hypothtical protein' to 'partial ribosomal large subunit pseudouridine synthase D' based on BLAST results
+
+Changed name of carsonella_dc_fl_00187 from 'imidazole glycerol phosphate synthase, glutamine amidotransferase subunit' to 'imidazole glycerol phosphate synthase subunit HisH' based on BLAST results after it was flagged by prokka as SUSPECT_PRODUCT_NAMES

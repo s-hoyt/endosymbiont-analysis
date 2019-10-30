@@ -1,0 +1,41 @@
+Removed [Wolbachia endosymbiont of Drosophila simulans wNo] from protein names because they were flagged by prokka as SUSPECT_PRODUCT_NAMES for including a species name
+
+Marked the following genes as partial because they were flagged by prokka as OVERLAPPING_CDS and they are less than 80% the length of the analagous gene in the reference
+       wolbachia_00025
+       wolbachia_00569
+       wolbachia_00570
+       wolbachia_00576
+       wolbachia_00577
+       wolbachia_00735
+       wolbachia_00819
+       wolbachia_00820
+       wolbachia_00849
+       wolbachia_00850
+       wolbachia_00916
+       wolbachia_00917
+       wolbachia_01024
+       wolbachia_01025
+       wolbachia_01026
+       wolbachia_01035
+       wolbachia_01036
+       wolbachia_01044
+       wolbachia_01045
+       wolbachia_01127
+       wolbachia_01128
+       wolbachia_01175
+       wolbachia_01176
+       wolbachia_01192
+       wolbachia_01211
+       wolbachia_01212
+       wolbachia_01224
+       wolbachia_01225
+       wolbachia_01228
+       wolbachia_01229
+       wolbachia_01254
+       wolbachia_01255
+       wolbachia_01266
+       wolbachia_01379
+       wolbachia_01380
+       wolbachia_01478
+       wolbachia_01525
+       wolbachia_01526
