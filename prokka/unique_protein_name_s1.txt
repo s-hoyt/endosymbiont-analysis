@@ -1,0 +1,460 @@
+>wolbachia_01240 hypothetical protein
+>wolbachia_01539 Ankyrin repeat domain protein 
+>wolbachia_00284 Putative transposase 
+>wolbachia_01110 Putative transposase 
+>wolbachia_01135 Putative transposase 
+>wolbachia_01197 Putative transcriptional regulator 
+>wolbachia_01198 Patatin family protein 
+>wolbachia_00973 hypothetical protein 
+>wolbachia_00971 hypothetical protein 
+>wolbachia_00960 Type IV secretion system protein VirB2, putative 
+>wolbachia_01427 hypothetical protein
+>wolbachia_01280 hypothetical protein 
+>wolbachia_00018 hypothetical protein 
+>wolbachia_00600 Transposase 
+>wolbachia_01150 Transposase 
+>wolbachia_01151 Transposase 
+>wolbachia_01124 Transposase 
+>wolbachia_01210 Transposase 
+>wolbachia_00989 Transposase 
+>wolbachia_01209 Transposase 
+>wolbachia_01107 Ankyrin repeat domain protein 
+>wolbachia_01417 Ankyrin repeat domain protein 
+>wolbachia_00299 Ankyrin repeat domain protein 
+>wolbachia_01108 Ankyrin repeat domain protein 
+>wolbachia_00154 Elongation factor Tu 2 
+>wolbachia_01478 partial Site-specific recombinase, resolvase family 
+>wolbachia_01138 DNA mismatch repair protein MutL 1 
+>wolbachia_01176 partial Site-specific recombinase, resolvase family 
+>wolbachia_01139 Site-specific recombinase, resolvase family 
+>wolbachia_01466 hypothetical protein 
+>wolbachia_01462 hypothetical protein
+>wolbachia_00184 Ankyrin repeat domain protein 
+>wolbachia_00588 Ankyrin repeat domain protein 
+>wolbachia_00117 Ankyrin repeat domain protein 
+>wolbachia_00230 ATP-dependent zinc metalloprotease FtsH 
+>wolbachia_00601 Ankyrin repeat domain protein 
+>wolbachia_00186 hypothetical protein 
+>wolbachia_00370 DnaJ domain protein 
+>wolbachia_01224 partial Putative minor tail protein z 
+>wolbachia_01164 Putative minor tail protein z 
+>wolbachia_01072 Putative minor tail protein z 
+>wolbachia_01225 partial Putative minor tail protein z 
+>wolbachia_01494 Putative minor tail protein z 
+>wolbachia_00708 Putative transcriptional regulator 
+>wolbachia_01033 Baseplate assembly protein GpW, putative 
+>wolbachia_01230 Baseplate assembly protein GpJ 
+>wolbachia_01170 Baseplate assembly protein GpJ 
+>wolbachia_01488 Baseplate assembly protein GpJ 
+>wolbachia_01121 Baseplate assembly protein GpJ 
+>wolbachia_01487 Putative phage tail protein 
+>wolbachia_01123 Putative phage tail protein 
+>wolbachia_01502 Phage terminase large subunit GpA 
+>wolbachia_01157 Phage terminase large subunit GpA 
+>wolbachia_01060 Putative phage head stabilizing protein GpW 
+>wolbachia_01497 hypothetical protein 
+>wolbachia_00286 DNA mismatch repair protein MutL 1 
+>wolbachia_01513 Putative regulatory protein RepA 
+>wolbachia_00376 Amino acid permease family protein 
+>wolbachia_00377 Amino acid permease family protein 
+>wolbachia_00602 Putative phage terminase 
+>wolbachia_00447 hypothetical protein
+>wolbachia_00444 hypothetical protein
+>wolbachia_00445 hypothetical protein
+>wolbachia_01180 Exopolysaccharide synthesis ExoD-like protein 
+>wolbachia_01055 Exopolysaccharide synthesis ExoD-like protein 
+>wolbachia_00652 hypothetical protein
+>wolbachia_01195 hypothetical protein 
+>wolbachia_01153 DNA methylase 
+>wolbachia_01506 DNA methylase 
+>wolbachia_01505 hypothetical protein 
+>wolbachia_01162 hypothetical protein 
+>wolbachia_01165 hypothetical protein 
+>wolbachia_00590 hypothetical protein 
+>wolbachia_01370 DNA repair protein RadC 3 
+>wolbachia_00927 hypothetical protein 
+>wolbachia_00926 hypothetical protein 
+>wolbachia_00065 hypothetical protein 
+>wolbachia_01507 hypothetical protein 
+>wolbachia_01152 hypothetical protein 
+>wolbachia_00292 DNA ligase 
+>wolbachia_00293 DNA ligase 
+>wolbachia_00294 DNA ligase 
+>wolbachia_00141 RDD family protein, putative 
+>wolbachia_01104 hypothetical protein
+>wolbachia_00696 hypothetical protein
+>wolbachia_00753 hypothetical protein
+>wolbachia_00297 hypothetical protein
+>wolbachia_01101 hypothetical protein
+>wolbachia_00635 hypothetical protein
+>wolbachia_00122 hypothetical protein
+>wolbachia_00301 hypothetical protein
+>wolbachia_00678 hypothetical protein
+>wolbachia_01418 hypothetical protein
+>wolbachia_00963 hypothetical protein
+>wolbachia_00826 hypothetical protein 
+>wolbachia_00827 hypothetical protein 
+>wolbachia_00853 50s ribosomal protein l29 
+>wolbachia_00848 50s ribosomal protein l29 
+>wolbachia_00845 50s ribosomal protein l29 
+>wolbachia_01046 hypothetical protein 
+>wolbachia_01477 hypothetical protein 
+>wolbachia_00594 Rod shape-determining protein RodA 
+>wolbachia_00629 hypothetical protein 
+>wolbachia_00638 Phospho-N-acetylmuramoyl-pentapeptide-transferase 
+>wolbachia_00637 Phospho-N-acetylmuramoyl-pentapeptide-transferase 
+>wolbachia_00818 binding-protein-dependent transport systems inner membrane component 
+>wolbachia_01400 Aminomethyl transferase family protein 
+>wolbachia_01316 hypothetical protein 
+>wolbachia_00981 50S ribosomal protein L28 
+>wolbachia_00907 Ubiquinone/menaquinone biosynthesis methyltransferase UbiE 
+>wolbachia_00892 Competence lipoprotein ComL, putative 
+>wolbachia_00010 UDP-N-acetylenolpyruvoylglucosamine reductase 
+>wolbachia_00867 30S ribosomal protein S11 
+>wolbachia_00865 Adenylate kinase 
+>wolbachia_00174 Succinate dehydrogenase, iron-sulfur protein 
+>wolbachia_00622 NADH-quinone oxidoreductase subunit J 
+>wolbachia_00242 Putative endonuclease protein 
+>wolbachia_00396 Putative thermostable carboxypeptidase 1 
+>wolbachia_01444 Ribosomal binding factor A 
+>wolbachia_00354 OmpA-like protein 
+>wolbachia_00355 OmpA-like protein 
+>wolbachia_00468 hypothetical protein 
+>wolbachia_01384 Na+/H+ antiporter, putative 
+>wolbachia_01382 Pseudouridine synthase 
+>wolbachia_00094 hypothetical protein 
+>wolbachia_00107 hypothetical protein 
+>wolbachia_00921 Hexapeptide transferase family protein 
+>wolbachia_00894 M23 peptidase domain protein 
+>wolbachia_01268 Fumarate hydratase, class II 
+>wolbachia_00928 Glucosamine--fructose-6-phosphate aminotransferase (Isomerizing) 
+>wolbachia_00351 hypothetical protein 
+>wolbachia_01203 Phage tail protein GpU 
+>wolbachia_01532 Phage tail protein GpU 
+>wolbachia_01535 Phage tail protein GpU 
+>wolbachia_00689 hypothetical protein 
+>wolbachia_01373 hypothetical protein 
+>wolbachia_00874 3,4-dihydroxy-2-butanone 4-phosphate synthase 
+>wolbachia_00783 Phosphoglucomutase/phosphomannomutase family protein 
+>wolbachia_00314 hypothetical protein 
+>wolbachia_00508 Riboflavin biosynthesis protein RibD 
+>wolbachia_00168 Polysaccharide deacetylase, putative 
+>wolbachia_00175 hypothetical protein 
+>wolbachia_00183 hypothetical protein 
+>wolbachia_00188 Queuine tRNA-ribosyltransferase 
+>wolbachia_00254 Riboflavin biosynthesis protein RibF 
+>wolbachia_00524 hypothetical protein 
+>wolbachia_00047 Succinyl-diaminopimelate desuccinylase 
+>wolbachia_00625 Hydrolase, alpha/beta fold family 
+>wolbachia_00045 hypothetical protein 
+>wolbachia_00133 Coenzyme Q related protein 
+>wolbachia_00038 Folate synthesis bifunctional protein 
+>wolbachia_00039 Dihydrofolate reductase 
+>wolbachia_00506 tRNA pseudouridine synthase B 
+>wolbachia_00192 hypothetical protein
+>wolbachia_00519 Quinone oxidoreductase, putative 
+>wolbachia_00758 Smr domain family protein 
+>wolbachia_00671 50S ribosomal protein L32 
+>wolbachia_00672 Putative membrane protein 
+>wolbachia_00672 Putative membrane protein 
+>wolbachia_00673 ABC transporter, ATP-binding protein 
+>wolbachia_00066 Integral membrane protein MviN 
+>wolbachia_00491 hypothetical protein 
+>wolbachia_00422 Protein RecA 
+>wolbachia_00437 Toluene tolerance family protein 
+>wolbachia_00686 DNA-binding protein, HU family 
+>wolbachia_00591 ABC transporter, periplasmic substrate-binding protein 
+>wolbachia_00628 Holliday junction ATP-dependent DNA helicase RuvB 
+>wolbachia_00627 Holliday junction ATP-dependent DNA helicase RuvA 
+>wolbachia_00383 hypothetical protein
+>wolbachia_00560 IspD/ispF bifunctional enzyme 
+>wolbachia_00572 Tyrosine recombinase XerC 2 
+>wolbachia_00478 Formamidopyrimidine-DNA glycosylase
+>wolbachia_00479 Pyridoxine/pyridoxamine 5'-phosphate oxidase 
+>wolbachia_00303 hypothetical protein 
+>wolbachia_00325 Recombination protein RecR 
+>wolbachia_00345 Putative membrane protein 
+>wolbachia_00331 hypothetical protein 
+>wolbachia_00330 hypothetical protein 
+>wolbachia_00538 TPR domain protein 
+>wolbachia_00540 BioY family protein 
+>wolbachia_00541 Nitroreductase family protein 
+>wolbachia_00553 hypothetical protein
+>wolbachia_00554 hypothetical protein
+>wolbachia_00720 Succinate dehydrogenase, hydrophobic membrane anchor protein 
+>wolbachia_00729 ATP-dependent RNA helicase, DeaD/DeaH box family 
+>wolbachia_01277 Bacterioferritin 
+>wolbachia_00387 Oxidoreductase NAD-binding domain protein, putative 
+>wolbachia_00386 5-formyltetrahydrofolate cyclo-ligase 
+>wolbachia_00531 hypothetical protein 
+>wolbachia_00528 4-hydroxy-3-methylbut-2-enyl diphosphate reductase 
+>wolbachia_00316 Acetylornithine aminotransferase 
+>wolbachia_00464 DNA replication and repair protein RecF 
+>wolbachia_00419 Ribonuclease, BN family 
+>wolbachia_00698 hypothetical protein
+>wolbachia_00700 hypothetical protein
+>wolbachia_01276 RDD family protein 
+>wolbachia_00942 Metallophosphoesterase 
+>wolbachia_00706 Multiple resistance and pH regulation protein F 
+>wolbachia_00704 Putative monovalent cation/H+ antiporter subunit B 
+>wolbachia_00703 Multisubunit Na+/H+ antiporter, MnhB subunit 
+>wolbachia_00454 Transposase for transposon Tn5
+>wolbachia_00086 Transposase for transposon Tn5
+>wolbachia_01364 Transposase for transposon Tn5
+>wolbachia_01391 Transposase for transposon Tn5
+>wolbachia_00716 Transposase for transposon Tn5
+>wolbachia_00771 Ankyrin repeat domain protein 
+>wolbachia_00110 Pyridoxine 5'-phosphate synthase 
+>wolbachia_01359 hypothetical protein 
+>wolbachia_01289 Putative stringent starvation protein B domain protein 
+>wolbachia_00800 Putative transcriptional activator, TenA family 
+>wolbachia_00801 Putative transcriptional activator, TenA family 
+>wolbachia_00804 Putative transcriptional activator, TenA family 
+>wolbachia_00408 Major facilitator family transporter 
+>wolbachia_00327 Ankyrin repeat domain protein 
+>wolbachia_00328 Primosomal protein N', superfamily II helicase, PriA 
+>wolbachia_01299 Class II aldolase/adducin domain protein 
+>wolbachia_01302 Putative Sodium:dicarboxylate symporter family protein 
+>wolbachia_01098 Phage uncharacterized protein 
+>wolbachia_01500 Phage uncharacterized protein 
+>wolbachia_01457 Ankyrin repeat domain protein 
+>wolbachia_00937 hypothetical protein 
+>wolbachia_00936 hypothetical protein 
+>wolbachia_00901 Ankyrin repeat domain protein 
+>wolbachia_00904 Ankyrin repeat domain protein 
+>wolbachia_00099 hypothetical protein 
+>wolbachia_00895 spfh domain/band 7 family protein 
+>wolbachia_00891 Putative membrane protein 
+>wolbachia_00231 Ankyrin repeat domain protein 
+>wolbachia_00349 Acetylornithine aminotransferase 
+>wolbachia_01544 Patatin family protein 
+>wolbachia_01198 Patatin family protein 
+>wolbachia_01201 phage late control protein GpD 
+>wolbachia_01538 phage late control protein GpD 
+>wolbachia_01536 Phage Tail Protein GpX 
+>wolbachia_01202 Phage Tail Protein GpX 
+>wolbachia_01206 hypothetical protein 
+>wolbachia_00992 contractile tail tube protein 
+>wolbachia_00991 contractile tail tube protein 
+>wolbachia_01519 hypothetical protein 
+>wolbachia_01518 hypothetical protein 
+>wolbachia_01516 hypothetical protein 
+>wolbachia_01004 hypothetical protein 
+>wolbachia_01083 hypothetical protein 
+>wolbachia_01007 hypothetical protein 
+>wolbachia_01514 hypothetical protein 
+>wolbachia_01009 hypothetical protein 
+>wolbachia_01509 hypothetical protein 
+>wolbachia_00197 hypothetical protein 
+>wolbachia_00169 Mg chelatase-related protein 
+>wolbachia_00172 EVE domain protein 
+>wolbachia_00177 Phosphatidylglycerophosphatase A, putative 
+>wolbachia_00020 Putative phage-related protein 
+>wolbachia_00248 hypothetical protein 
+>wolbachia_00525 hypothetical protein 
+>wolbachia_00048 AraM protein 
+>wolbachia_00046 hypothetical protein 
+>wolbachia_00132 hypothetical protein 
+>wolbachia_00223 PAS domain protein 
+>wolbachia_00036 Coenzyme PQQ synthesis protein C 
+>wolbachia_00953 DNA repair protein RadA 
+>wolbachia_01261 Putative membrane protein 
+>wolbachia_00966 Competence protein F 
+>wolbachia_00623 hypothetical protein 
+>wolbachia_00616 hypothetical protein 
+>wolbachia_00612 Putative MgtE intracellular N domain protein 
+>wolbachia_00441 Putative membrane protein 
+>wolbachia_00055 LD-carboxypeptidase 
+>wolbachia_00496 hypothetical protein 
+>wolbachia_00760 hypothetical protein
+>wolbachia_00762 Ankyrin repeat domain protein 
+>wolbachia_00765 hypothetical protein
+>wolbachia_00438 Folylpolyglutamate synthase 
+>wolbachia_00685 Putative cell division protein ZapA 
+>wolbachia_00664 NAD dependent epimerase/dehydratase family protein 
+>wolbachia_00450 Pseudouridine synthase 
+>wolbachia_00082 Ankyrin repeat domain protein 
+>wolbachia_00539 hypothetical protein 
+>wolbachia_00551 putative methyltransferase 
+>wolbachia_00392 Putative membrane protein 
+>wolbachia_00315 Sensor histidine kinase 
+>wolbachia_00236 hypothetical protein 
+>wolbachia_00870 hypothetical protein 
+>wolbachia_01404 hypothetical protein 
+>wolbachia_00580 hypothetical protein 
+>wolbachia_00581 hypothetical protein 
+>wolbachia_00578 hypothetical protein 
+>wolbachia_00632 hypothetical protein 
+>wolbachia_00631 hypothetical protein 
+>wolbachia_00581 hypothetical protein 
+>wolbachia_01543 hypothetical protein
+>wolbachia_01199 hypothetical protein 
+>wolbachia_00037 Dihydroneopterin aldolase 
+>wolbachia_00359 Major facilitator family transporter 
+>wolbachia_00962 Ankyrin repeat domain protein 
+>wolbachia_00495 Small multidrug resistance protein 
+>wolbachia_01371 hypothetical protein 
+>wolbachia_01167 hypothetical protein 
+>wolbachia_01318 hypothetical protein 
+>wolbachia_01319 Putative DNA polymerase III, delta subunit 
+>wolbachia_00970 hypothetical protein
+>wolbachia_00909 hypothetical protein
+>wolbachia_00104 Glycosyl transferase, group 2 family protein 
+>wolbachia_01389 Ankyrin repeat domain and putative OTU-like cysteine protease 
+>wolbachia_00693 ATP-dependent zinc metalloprotease FtsH 
+>wolbachia_00898 Thiamine pyrophosphokinase 
+>wolbachia_01520 hypothetical protein 
+>wolbachia_01081 hypothetical protein 
+>wolbachia_01512 hypothetical protein 
+>wolbachia_01511 hypothetical protein 
+>wolbachia_01508 Sigma-70 region 2 domain protein 
+>wolbachia_00988 hypothetical protein 
+>wolbachia_00987 hypothetical protein 
+>wolbachia_00526 hypothetical protein 
+>wolbachia_00060 hypothetical protein
+>wolbachia_00768 Sodium/alanine symporter family protein 
+>wolbachia_00435 Putative polyketide cyclase/dehydrase and lipid transport family protein 
+>wolbachia_00502 N-acetylmuramoyl-L-alanine amidase, family 2 
+>wolbachia_00688 tRNA (guanine-N(7)-)-methyltransferase 
+>wolbachia_00660 hypothetical protein 
+>wolbachia_00571 hypothetical protein 
+>wolbachia_00451 Putative membrane protein 
+>wolbachia_00448 Diacylglycerol kinase 
+>wolbachia_00304 hypothetical protein
+>wolbachia_00324 kap family p-loop domain protein 
+>wolbachia_00557 Chromosome partitioning protein,ParA family 
+>wolbachia_00558 Chromosome partitioning protein, ParB family 
+>wolbachia_00730 ATP-dependent Clp protease, ATP-binding subunit ClpA 
+>wolbachia_00243 hypothetical protein
+>wolbachia_00244 Prolipoprotein diacylglyceryl transferase 
+>wolbachia_00295 hypothetical protein
+>wolbachia_00235 hypothetical protein 
+>wolbachia_00507 hypothetical protein 
+>wolbachia_01181 hypothetical protein 
+>wolbachia_01057 hypothetical protein 
+>wolbachia_01182 hypothetical protein
+>wolbachia_00793 Putative outer membrane protein 
+>wolbachia_00794 Putative outer membrane protein 
+>wolbachia_00795 Putative outer membrane protein 
+>wolbachia_00040 Putative hydrolase of the alpha/beta superfamily 
+>wolbachia_00041 hypothetical protein
+>wolbachia_00561 Putative hydrolase of the alpha/beta superfamily 
+>wolbachia_00564 Putative hydrolase of the alpha/beta superfamily 
+>wolbachia_00566 Putative hydrolase of the alpha/beta superfamily 
+>wolbachia_01332 hypothetical protein 
+>wolbachia_01395 hypothetical protein 
+>wolbachia_01396 hypothetical protein 
+>wolbachia_01399 hypothetical protein 
+>wolbachia_01328 Putative membrane protein 
+>wolbachia_00886 Efflux transporter, RND family, MFP subunit 
+>wolbachia_00887 Glutaredoxin 
+>wolbachia_00634 Putative Endonuclease 
+>wolbachia_00897 Putative PQ loop repeat protein 
+>wolbachia_01048 hypothetical protein
+>wolbachia_00095 hypothetical protein
+>wolbachia_01177 hypothetical protein
+>wolbachia_01204 hypothetical protein
+>wolbachia_00375 hypothetical protein
+>wolbachia_00614 hypothetical protein
+>wolbachia_01256 Chaperone protein DnaJ 
+>wolbachia_00457 ComEC/Rec2 family protein 
+>wolbachia_00459 hypothetical protein
+>wolbachia_01441 Cation efflux system protein CusA
+>wolbachia_00772 hypothetical protein 
+>wolbachia_00773 hypothetical protein 
+>wolbachia_00938 Cation transport protein 
+>wolbachia_00993 Putative phage tail sheath protein 
+>wolbachia_00517 Ankyrin repeat domain protein 
+>wolbachia_00512 hypothetical protein 
+>wolbachia_00366 Ankyrin repeat domain protein 
+>wolbachia_00368 Ankyrin repeat domain protein 
+>wolbachia_00967 hypothetical protein
+>wolbachia_00969 ATPase, AAA family 
+>wolbachia_01094 hypothetical protein
+>wolbachia_01510 hypothetical protein 
+>wolbachia_00189 hypothetical protein 
+>wolbachia_01357 hypothetical protein 
+>wolbachia_01358 hypothetical protein 
+>wolbachia_01448 hypothetical protein 
+>wolbachia_01185 hypothetical protein
+>wolbachia_00185 hypothetical protein
+>wolbachia_01465 hypothetical protein
+>wolbachia_00384 hypothetical protein 
+>wolbachia_00326 Ankyrin repeat domain protein 
+>wolbachia_01348 Putative transcriptional regulator 
+>wolbachia_00972 hypothetical protein 
+>wolbachia_00470 hypothetical protein
+>wolbachia_00880 hypothetical protein
+>wolbachia_01333 hypothetical protein
+>wolbachia_00650 hypothetical protein
+>wolbachia_01334 hypothetical protein 
+>wolbachia_01284 hypothetical protein
+>wolbachia_00170 Putative membrane protein 
+>wolbachia_00332 Ankyrin repeat domain protein 
+>wolbachia_00882 hypothetical protein 
+>wolbachia_01019 hypothetical protein 
+>wolbachia_01018 hypothetical protein 
+>wolbachia_00731 Dnaj domain protein 
+>wolbachia_01061 Lyzozyme M1 
+>wolbachia_00237 Putative OTU-like cysteine protease 
+>wolbachia_00219 hypothetical protein 
+>wolbachia_00646 Ankyrin repeat domain protein 
+>wolbachia_00483 Ankyrin repeat domain protein 
+>wolbachia_00074 Ankyrin repeat domain protein 
+>wolbachia_00439 Putative dnaJ domain protein 
+>wolbachia_01472 Putative DnaJ domain membrane protein 
+>wolbachia_00004 hypothetical protein 
+>wolbachia_00001 hypothetical protein 
+>wolbachia_00968 Ankyrin repeat domain protein 
+>wolbachia_01231 Putative phage tail protein 
+>wolbachia_01076 Putative phage tail protein 
+>wolbachia_01213 Phage portal protein 
+>wolbachia_01097 Phage portal protein 
+>wolbachia_01368 hypothetical protein
+>wolbachia_00075 hypothetical protein
+>wolbachia_01089 Putative DNA repair protein RadC 
+>wolbachia_01205 hypothetical protein
+>wolbachia_01320 hypothetical protein
+>wolbachia_00715 hypothetical protein
+>wolbachia_00109 Spore protein SP21
+>wolbachia_01475 hypothetical protein 
+>wolbachia_01476 Leucine-rich repeat protein 
+>wolbachia_00273 hypothetical protein 
+>wolbachia_01141 hypothetical protein 
+>wolbachia_01163 hypothetical protein 
+>wolbachia_00250 hypothetical protein 
+>wolbachia_00240 hypothetical protein 
+>wolbachia_00222 hypothetical protein 
+>wolbachia_00160 hypothetical protein 
+>wolbachia_00118 Ankyrin repeat domain protein 
+>wolbachia_00068 hypothetical protein 
+>wolbachia_00061 Ankyrin repeat domain protein 
+>wolbachia_00035 hypothetical protein 
+>wolbachia_00034 hypothetical protein 
+>wolbachia_00365 Ankyrin repeat domain protein 
+>wolbachia_00333 hypothetical protein 
+>wolbachia_00306 hypothetical protein 
+>wolbachia_00472 hypothetical protein 
+>wolbachia_00542 Glycosyl hydrolase, family 5 protein 
+>wolbachia_00734 Putative lipoprotein 
+>wolbachia_00691 hypothetical protein 
+>wolbachia_00813 hypothetical protein 
+>wolbachia_00924 hypothetical protein 
+>wolbachia_01269 hypothetical protein 
+>wolbachia_01308 Na+/H+ antiporter, putative 
+>wolbachia_01329 hypothetical protein 
+>wolbachia_01375 Ankyrin repeat domain protein 
+>wolbachia_01383 Ankyrin repeat domain protein 
+>wolbachia_00976 Putative exonuclease family domain protein 
+>wolbachia_00977 hypothetical protein 
+>wolbachia_01267 Ankyrin repeat domain protein 
+>wolbachia_01545 Putative transcriptional regulator 
+>wolbachia_00613 hypothetical protein
+>wolbachia_01295 Ankyrin repeat domain protein 
+>wolbachia_01428 hypothetical protein
+>wolbachia_00120 hypothetical protein
+>wolbachia_01433 hypothetical protein
+>wolbachia_00089 hypothetical protein
+>wolbachia_00212 hypothetical protein
+>wolbachia_01022 Phage portal protein 
+>wolbachia_00403 hypothetical protein

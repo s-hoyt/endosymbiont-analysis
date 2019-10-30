@@ -1,0 +1,163 @@
+>wolbachia_01183 hypothetical protein
+>wolbachia_01399 hypothetical protein
+>wolbachia_01362 hypothetical protein
+>wolbachia_00609 Transposase [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01131 hypothetical protein
+>wolbachia_01048 hypothetical protein
+>wolbachia_01228 hypothetical protein
+>wolbachia_01095 hypothetical protein
+>wolbachia_01047 hypothetical protein
+>wolbachia_01126 hypothetical protein
+>wolbachia_00264 Putative lipase [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01289 hypothetical protein
+>wolbachia_01291 hypothetical protein
+>wolbachia_01283 hypothetical protein
+>wolbachia_00187 hypothetical protein
+>wolbachia_01282 hypothetical protein
+>wolbachia_01287 hypothetical protein
+>wolbachia_01284 hypothetical protein
+>wolbachia_01290 hypothetical protein
+>wolbachia_01288 hypothetical protein
+>wolbachia_00301 hypothetical protein
+>wolbachia_00123 hypothetical protein
+>wolbachia_00646 hypothetical protein
+>wolbachia_01211 hypothetical protein
+>wolbachia_00690 hypothetical protein
+>wolbachia_00976 hypothetical protein
+>wolbachia_00305 hypothetical protein
+>wolbachia_00766 hypothetical protein
+>wolbachia_00708 hypothetical protein
+>wolbachia_01096 Transposase for transposon Tn5
+>wolbachia_00372 Transposase for transposon Tn5
+>wolbachia_00461 hypothetical protein
+>wolbachia_00085 hypothetical protein
+>wolbachia_00706 Transposase for transposon Tn5
+>wolbachia_01466 Transposase [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01002 Transposase [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01182 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00464 Transposase for transposon Tn5
+>wolbachia_00489 Transposase for transposon Tn5
+>wolbachia_00087 hypothetical protein
+>wolbachia_00707 hypothetical protein
+>wolbachia_01097 hypothetical protein
+>wolbachia_01272 hypothetical protein
+>wolbachia_00589 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00590 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00587 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00643 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00642 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00590 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00657 hypothetical protein
+>wolbachia_01416 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01327 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01034 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01329 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01417 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00977 hypothetical protein
+>wolbachia_01210 hypothetical protein
+>wolbachia_00689 hypothetical protein
+>wolbachia_00122 hypothetical protein
+>wolbachia_00765 hypothetical protein
+>wolbachia_00709 hypothetical protein
+>wolbachia_00808 Putative outer membrane protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00807 Putative outer membrane protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00806 Putative outer membrane protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01325 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01414 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01435 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01437 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00040 Putative hydrolase of the alpha/beta superfamily [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00041 hypothetical protein
+>wolbachia_00569 Putative hydrolase of the alpha/beta superfamily [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00574 Putative hydrolase of the alpha/beta superfamily [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00572 Putative hydrolase of the alpha/beta superfamily [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00728 Transposase for transposon Tn5
+>wolbachia_00462 Transposase for transposon Tn5
+>wolbachia_00086 Transposase for transposon Tn5
+>wolbachia_00075 hypothetical protein
+>wolbachia_01237 hypothetical protein
+>wolbachia_00704 hypothetical protein
+>wolbachia_00457 hypothetical protein
+>wolbachia_00786 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00785 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01143 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01198 hypothetical protein
+>wolbachia_01197 hypothetical protein
+>wolbachia_00980 hypothetical protein
+>wolbachia_00982 ATPase, AAA family [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01447 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00191 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00389 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00371 Ankyrin repeat domain protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00373 Ankyrin repeat domain protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00369 Ankyrin repeat domain protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00330 Ankyrin repeat domain protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00985 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01105 Putative transcriptional regulator [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01486 Putative transcriptional regulator [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01102 Putative transcriptional regulator [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01230 hypothetical protein
+>wolbachia_01233 Putative transposase [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01231 hypothetical protein
+>wolbachia_01480 hypothetical protein
+>wolbachia_01270 hypothetical protein
+>wolbachia_00478 hypothetical protein
+>wolbachia_00893 hypothetical protein
+>wolbachia_01364 hypothetical protein
+>wolbachia_00662 hypothetical protein
+>wolbachia_00447 Putative dnaJ domain protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01129 hypothetical protein
+>wolbachia_00171 Putative membrane protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00336 Ankyrin repeat domain protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00895 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00743 Dnaj domain protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01253 Lyzozyme M1 [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00240 Putative OTU-like cysteine protease [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00221 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00326 Ankyrin repeat domain protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00074 Ankyrin repeat domain protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00491 Ankyrin repeat domain protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00004 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00001 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01446 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00727 hypothetical protein
+>wolbachia_00109 Spore protein SP21
+>wolbachia_01042 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00276 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01207 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00253 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00243 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00224 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00161 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00118 Ankyrin repeat domain protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00068 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00061 Ankyrin repeat domain protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00035 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00034 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00374 Ankyrin repeat domain protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00370 Ankyrin repeat domain protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00337 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00310 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00480 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00550 Glycosyl hydrolase, family 5 protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00746 Putative lipoprotein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00703 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00826 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00937 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01214 ankyrin repeat domain protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01193 Putative acyltransferase protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01128 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_01175 hypothetical protein
+>wolbachia_00989 Putative exonuclease family domain protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00990 hypothetical protein [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00623 hypothetical protein
+>wolbachia_01168 hypothetical protein
+>wolbachia_00424 hypothetical protein
+>wolbachia_01176 hypothetical protein
+>wolbachia_00121 hypothetical protein
+>wolbachia_00119 Putative phage terminase [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00285 hypothetical protein
+>wolbachia_00089 hypothetical protein
+>wolbachia_00214 hypothetical protein
+>wolbachia_01181 Reverse transcriptase, putative [Wolbachia endosymbiont of Drosophila simulans wNo]
+>wolbachia_00410 hypothetical protein
