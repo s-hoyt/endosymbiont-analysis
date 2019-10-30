@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+
+unique=$1
+tsv=$2
+faa=$3
+dir=$4
+
+
+while read -r line; do
+    prot=$(grep -w "$line" "$dir"/* | head -n 1 | cut -f 2)
+    IFS=$', ' read -ra carsonella <<< "$prot"
+    unset IFS
+#    echo ${#carsonella[@]}
+    array_len=${#carsonella[@]}
+    for (( i=0; i<${array_len}; i++ )); do
+#	echo "$i"
+#	echo ${carsonella[$i]} | cat -T
+	length=$(($(grep "${carsonella[$i]}" "$tsv" | cut -f 3)/3))
+#	echo $length
+	if [ $(($length%60)) == 0 ]; then
+	    linenum=$(echo $((($length/60))))
+#	    echo $linenum
+	else
+	    linenum=$(echo $((($length/60 + 1))))
+#	    echo $linenum
+	fi
+	seq=$(grep -A $linenum "${carsonella[$i]}" "$faa")
+	echo "$seq" >> unique.faa
+    done
+done < "$unique"
