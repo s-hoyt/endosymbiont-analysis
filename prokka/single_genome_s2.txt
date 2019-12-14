@@ -1,0 +1,5 @@
+OG0000046
+OG0000903	wolbachia_01322 wolbachia_01353 wolbachia_01384 wolbachia_01386 wolbachia_01428 wolbachia_01430
+OG0001007
+OG0001009
+OG0001090
